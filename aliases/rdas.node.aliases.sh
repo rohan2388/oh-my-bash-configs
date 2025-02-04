@@ -1,7 +1,11 @@
 #! bash oh-my-bash.module
 #  ---------------------------------------------------------------------------
 
-alias pp='pnpm run'  # pnpm run
-alias pp='pnpx'      # pnpx
-alias nn='npm run'   # npm run
-alias nx='npx'       # npx
+# node package manager shortcuts
+alias pp='pnpm run'
+alias ppx='pnpx'
+alias nn='npm run'
+alias nnx='npx'
+
+# vlta.js shortcuts
+alias vt='volta install'
