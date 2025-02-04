@@ -2,10 +2,12 @@
 #  ---------------------------------------------------------------------------
 
 # node package manager shortcuts
-alias pp='pnpm run'
+alias pp='pnpm'
 alias ppx='pnpx'
-alias nn='npm run'
+alias ppr='pnpm run'
+alias nn='npm'
 alias nnx='npx'
+alias nnr='npm run'
 
 # vlta.js shortcuts
 alias vt='volta install'
